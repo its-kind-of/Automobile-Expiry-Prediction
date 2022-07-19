@@ -1,4 +1,4 @@
-# Automobile-Expiry-Prediction
+# Insurance Claim Fraud Detection
 #### Problem Statement :
 - The aim of this project is to build a model that can detect auto insurance fraud.
 - The main challenge behind this is that fraud is far less common as compared to legit insurance claims.
